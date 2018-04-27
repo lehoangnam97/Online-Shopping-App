@@ -1,0 +1,1 @@
+export const vietcombankPaymentInfo = "So tai khoan: abc\nTen chu tai khoan: asdf"
